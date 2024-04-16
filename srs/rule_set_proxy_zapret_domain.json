@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "news.google.com",
+        "play.google.com",
+        "habr.com",
+        "exler.ru",
+        "theins.ru",
+        "polit.ru",
+        "m.polit.ru",
+        "grani.ru",
+        "tvrain.ru",
+        "ej.ru",
+        "kasparov.ru",
+        "snob.ru",
+        "itsmycity.ru",
+        "newtimes.ru",
+        "the-village.ru",
+        "republic.ru",
+        "newizv.ru",
+        "novayagazeta.ru"
+      ]
+    }
+  ]
+}
