@@ -20,8 +20,12 @@
         "the-village.ru",
         "republic.ru",
         "newizv.ru",
-        "novayagazeta.ru",
-        "www.moscowtimes.ru"
+        "novayagazeta.ru"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".moscowtimes.ru"
       ]
     }
   ]
